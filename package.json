@@ -31,7 +31,7 @@
     "rimraf": "^3.0.0"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "source-map-support": "^0.5.13"
   },
   "engines": {
